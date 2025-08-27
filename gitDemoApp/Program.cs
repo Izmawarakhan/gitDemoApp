@@ -9,6 +9,9 @@ public class Add
         int c = 3333;
         int d = 199;
         Console.WriteLine(a + b + c + d);
+        Console.WriteLine("Hello from new branch");
+        Console.WriteLine("Modified commit example");
+
     }
 }
 
