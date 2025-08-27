@@ -11,6 +11,8 @@ public class Add
         Console.WriteLine(a + b + c + d);
         Console.WriteLine("Hello from new branch");
         Console.WriteLine("Modified commit example");
+        Console.WriteLine("Change from GitHub");
+
 
     }
 }
